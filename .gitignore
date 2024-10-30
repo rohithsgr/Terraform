@@ -1,0 +1,6 @@
+*
+!appinstall.sh
+!provider.tf
+!useast1-resources.tf
+!useast2-resources.tf
+!variables.tf
